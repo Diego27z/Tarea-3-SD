@@ -1,0 +1,67 @@
+Reddit (estilizado en minúscula como reddit) es un sitio web de marcadores sociales y agregador de noticias donde los usuarios pueden añadir textos, imágenes, videos o enlaces. Los usuarios pueden votar a favor o en contra del contenido, haciendo que aparezcan en las publicaciones destacadas. Su público es mayoritariamente anglosajón y la mayoría de la actividad se realiza en inglés. Reddit fue software libre desde el 19 de junio de 2009[2]​ hasta septiembre de 2017,[3]​ cuando la compañía archivó y cerró el acceso a sus repositorios en Github, que incluían todo el código escrito para Reddit excepto las partes antispam.[4]​
+
+Funcionamiento
+El sitio tiene áreas de discusión donde los usuarios pueden debatir los enlaces enviados y votar a favor o en contra de los comentarios de otros usuarios. Cuando un envío tiene suficientes votos negativos en su contra, el enlace no aparece en la página principal aunque los lectores podrán acceder a él a través de un enlace o ajustando sus preferencias. Los usuarios que envían artículos reciben puntos de "Karma" por los votos favorables a sus envíos como recompensa.
+El logotipo de Reddit cambia durante las vacaciones y, a menudo, sin una razón aparente haciendo referencia a temas como Star Wars, videojuegos clásicos y cultura geek en general. En otras ocasiones se han mostrado logotipos comprometidos con alguna causa concreta como el mostrado durante el vigésimo aniversario de las Protestas de la Plaza de Tian'anmen de 1989, para celebrar aniversarios o efemérides o relacionados con discusiones masivas o temas de gran importancia tratados en el sitio.
+Los desarrolladores de Reddit han diseñado un sistema anti-spam que funciona a través de los avisos de los usuarios.
+En agosto de 2010, se produjo una migración en masa de usuarios de Digg a reddit, a causa de un rediseño impopular de Digg que causó mucha controversia entre sus usuarios.[5]​
+Con fecha 15 de diciembre de 2021 reddit informó públicamente que habían iniciado el procedimiento ante la SEC de Estados Unidos con el fin de llevar a cabo una eventual venta pública de acciones.[6]​
+
+Subreddit
+Los subreddits son áreas de interés creadas por el usuario donde se organizan las discusiones sobre Reddit. Hay alrededor de 138 000 subreddits activos (entre un total de 1,2 millones) a julio de 2018.[7]​[8]​ Los nombres de subreddit comienzan con «r/»; por ejemplo, «r/science» es una comunidad dedicada a discutir temas científicos, mientras que «r/television» es una comunidad dedicada a discutir programas de televisión.
+En una entrevista de 2014 con Memeburn, Erik Martin, entonces gerente general de Reddit, comentó que su «enfoque es dar a los moderadores o curadores de la comunidad el mayor control posible para que puedan moldear y cultivar el tipo de comunidades que desean».[9]​ Los subreddits a menudo usan variantes temáticas de la mascota alienígena de Reddit, Snoo, en el estilo visual de sus comunidades.[10]​
+
+Historia
+El 23 de junio de 2005, el sitio fue creado por Steven Huffman y Alexis Ohanian en Medford, Massachusetts.
+Después de graduarse de la Universidad de Virginia empezaron a desarrollar el primer sitio llamado "MyMobile Menu"; sin embargo la idea fue rechazada; poco después nace Reddit.
+Reddit ya contaba con 10 926 subreddits en 2008.[11]​
+En julio de 2010, Reddit reveló Reddit Gold. 
+El 10 de julio de 2015, la CEO de Reddit (Ellen Pao) presentó su renuncia y fue reemplazada por Steven Huffman.
+En abril de 2017, el experimento r/place fue abierto. 
+En mayo de 2018 cambiaron su aspecto original, cosa con la que más del 80% de los usuarios no estuvieran de acuerdo[cita requerida].
+
+Demografía de usuarios
+Según la página de Reddit de Audiencia y la Demografía, a diciembre de 2015, el 53% de redditers son hombres y el 54% son de Estados Unidos.[12]​ Pewinternet.org afirmó que el 6% de todos los adultos estadounidenses que usan Internet han utilizado Reddit; que los hombres son dos veces más propensos a usar Reddit que las mujeres; y que el rango de edad al que la mayor cantidad de usuarios pertenece es de 18 a 29 años (aunque la edad mínima sea 13).[13]​
+
+Controversias
+Descripción general
+El sitio web generalmente permite a los moderadores de subreddit tomar decisiones editoriales sobre qué contenido permitir.[14]​ Muchos de los subreddits predeterminados están altamente moderados, con el subreddit de "ciencia" que prohíbe el negacionismo del cambio climático,[15]​ y el subreddit de "noticias" que prohíbe los artículos y columnas de opinión.[16]​ Reddit ha cambiado sus políticas editoriales en todo el sitio varias veces, a veces como reacción a controversias.[17]​[18]​ Reddit ha sido históricamente una plataforma de contenido objetable pero legal, y en 2011, los medios de comunicación cubrieron la forma en que jailbaitse estaba compartiendo en el sitio antes de que el sitio cambiara sus políticas para prohibir explícitamente "contenido sugerente o pornografía infantil".[19]​ Tras algunos incidentes controvertidos de vigilantismo en Internet , Reddit introdujo una regla estricta contra la publicación de información de identificación personal no pública a través del sitio (coloquialmente conocido como doxxing). Aquellos que infrinjan la regla están sujetos a una prohibición en todo el sitio, lo que puede resultar en la eliminación de su contenido generado por el usuario.
+
+Amenazas
+El 16 de diciembre de 2010, un usuario llamado Matt publicó un enlace que describe cómo había donado un riñón e incluyó un enlace a JustGive para alentar a los usuarios a realizar donaciones a la Sociedad Estadounidense del Cáncer.[20]​ Después de una reacción inicialmente positiva, los usuarios de Reddit comenzaron a sospechar de las intenciones de Matt y sugirieron que se quedaba con las donaciones para él. Los usuarios recibieron llamadas telefónicas a su casa y recibieron amenazas de muerte. Matt finalmente demostró que era genuino al cargar los registros de su médico.[21]​
+El 18 de octubre de 2011, un gerente de TI envió una publicación al subreddit r/gameswap ofreciendo a los Redditors intercambiar uno de los 312 códigos que le habían dado para el juego Deus Ex: Human Revolution.[22]​ Un grupo de usuarios obtuvo sus datos personales y comenzó a chantajearlo por los códigos.[23]​ En cuestión de días, recibió 138 llamadas telefónicas amenazadoras tanto en su casa como en su trabajo, y al final del día lo habían despedido.[24]​
+
+Años 2020
+Durante las protestas por la muerte de George Floyd a principios en junio de 2020, más de 800 moderadores firmaron una carta abierta exigiendo una política que prohíba el discurso de odio, el cierre de subreddits racistas y sexistas y más apoyo de los empleados a la moderación. Bloomberg News señaló la lenta reacción de la compañía a r/watchpeopledie, un subreddit dedicado a videos de personas que mueren en accidentes y otras situaciones, y el acoso que acompañaba a las nuevas funciones no moderadas como íconos para compras y chats públicos.[25]​
+El 29 de junio de 2020, Reddit actualizó su política de contenido e introdujo reglas destinadas a frenar la presencia de comunidades que creían que estaban "promoviendo el odio",  y prohibió aproximadamente 2.000 subreddits que infringieron las nuevas directrices ese mismo día.  Los subreddits más grandes afectados por las prohibiciones incluyeron r/The_Donald (el subreddit del partido republicano de extrema derecha más grande de los Estados Unidos),  r/GenderCritical  (el subreddit feminista radical anti-transgénero más grande y activo de la plataforma),  y r/ChapoTrapHouse (un grupo y subreddit de extrema izquierda creado originalmente por fanáticos del podcast Chapo Trap House). Algunos medios de comunicación y comentaristas políticos también condenaron la prohibición de los subreddits r/The_Donald y r/ChapoTrapHouse como una violación del derecho a la libre expresión política.[26]​[27]​[28]​
+El 3 de agosto, los moderadores del subreddit r/Animemes prohibieron el uso de la palabra "trapito" para referirse a cualquier persona o personaje ficticio. La prohibición se basó en el uso en el mundo real de la palabra "trapito" como un insulto contra las personas transgénero, y los moderadores citaron la defensa del pánico trans. En respuesta, muchos usuarios del subreddit sostuvieron que "trapito" no se usaba de manera transfóbica , sino para referirse cariñosamente a las chicas trans, otokonoko y personajes con identidades relacionadas en animanga. Muchos usuarios inundaron el subreddit con memes burlándose del cambio de reglas y del equipo de moderación. Muchos se fueron en protesta, lo que resultó en una pérdida de más de 100.000 suscriptores.[29]​[29]​
+Después del asalto al Capitolio de los Estados Unidos en enero de 2021, Reddit anunció que había prohibido el subreddit r/DonaldTrump en respuesta a repetidas violaciones de políticas y aludiendo a la posible influencia que la comunidad tuvo en aquellos que participaron o apoyaron el asalto.[30]​ La medida siguió a acciones similares de plataformas de redes sociales, como Facebook, Twitter, YouTube, Instagram, WhatsApp, Telegram, TikTok y más.[31]​ La prohibición provocó controversias entre quienes creían que fomentaba una agenda y la censura de las ideologías conservadoras.[32]​ El subreddit tenía más de 52.000 miembros justo antes de que fuera prohibido.[33]​
+El apretón corto de GameStop se organizó principalmente en el subreddit r/wallstreetbets en enero de 2021.[34]​
+En marzo, los usuarios de Reddit descubrieron que Aimee Challenor , una política inglesa que había sido suspendida de dos partidos políticos del Reino Unido por la condena de abuso sexual infantil de su padre y los comentarios de su pareja relacionados con la pedofilia , fue contratada como administradora del sitio. Reddit prohibió a un moderador publicar un artículo de noticias que mencionaba a Challenor, y algunos usuarios de Reddit se alegaron de que Reddit estaba eliminando toda mención de Challenor. Una gran cantidad de subreddits, incluido r / Music, que tenía 27  millones de suscriptores, y otros 19 subreddits con más de 1  millón de suscriptores, se hicieron privados en protesta. El 24 de marzo el director ejecutivo de Reddit, Steve Huffman, dijo que Challenor no había sido examinada adecuadamente antes de ser contratada y que Reddit revisaría sus procesos internos relevantes. Huffman atribuyó las suspensiones de usuarios a la indexación excesiva de las medidas contra el acoso.  Challenor también fue removida de su rol como administradora de Reddit.[35]​[36]​[37]​
+
+Puntos a seguir de reddiquette:[38]​
+Reddit cuenta con una netiqueta[39]​ llamada "reddiquette" con unos puntos estratégicos:[40]​
+
+Las normas de comportamiento se aplican en todo momento.
+Los moderadores analizan que el contenido sea adecuado.
+En cualquier contenido debe de estar la fuente original
+Doxing: se realiza la expulsión si se usa la información personal de algún individuo
+
+Apagón de Reddit
+En 2023, Reddit anunció que se harían cambios a la API haciendo pagar a los desarrolladores de aplicaciones de terceros 20 Millones de dólares cada año para usar su API, esto causó que la comunidad en Reddit se uniera para hacer un apagón coordinado de todos los ''subreddits'' más grandes.[41]​[42]​ Sin embargo al cabo de varias semanas el apagón no tuvo éxito y Reddit terminó forzando a que los subreddits en protestas fueran reabiertos.[43]​
+
+Véase también
+4chan
+Menéame
+Digg
+Loomio
+Discord
+MeWe
+Telegram
+Tumblr
+
+Referencias
+Enlaces externos
+Reddit
+Reddit TV
+Código fuente de Reddit (hospedado por GitHub)
